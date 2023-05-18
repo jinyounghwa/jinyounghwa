@@ -4,4 +4,8 @@
 <p align="center">timotolkie@gmail.com</p>
 <br>
 <p align="center"><b>💡 Skill 💡</b></p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,d3,threejs,figma)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,d3,threejs,figma" />
+  </a>
+</p>
