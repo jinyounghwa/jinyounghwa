@@ -8,7 +8,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,d3,threejs,figma" />
   </a>
-  <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jinyounghwa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyounghwa&layout=compact&theme=dark) 
+
 </p>
