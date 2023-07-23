@@ -9,3 +9,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,d3,threejs,figma" />
   </a>
 </p>
+<div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyounghwa&layout=compact&theme=dark) 
+</div>
