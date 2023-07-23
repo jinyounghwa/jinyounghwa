@@ -11,6 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyounghwa&layout=compact&theme=dark) 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?jinyounghwa=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?jinyounghwa=top-langs" />
 </a>
 </p>
