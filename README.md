@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,d3,threejs,figma" />
   </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyounghwa&layout=pie&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyounghwa&layout=donut-vertical&theme=dark) 
 ![jinyounghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </a>
 </p>
