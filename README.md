@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jin%20Young%20Hwa%20&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=PM_Webplan%20and%20ReactDev&fontAlignY=40&descSize=20&descAlign=72)
 
-<p align="center"><b>✉ Email ✉</b></p>
-<p align="center">timotolkie@gmail.com</p>
+<p align="left"><b>✉ Email ✉</b></p>
+<p align="left">timotolkie@gmail.com</p>
 <br>
-<p align="center"><b>💡 Skill 💡</b></p>
-<p align="center">
+<p align="left"><b>💡 Skill 💡</b></p>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,d3,threejs,figma" />
   </a>
