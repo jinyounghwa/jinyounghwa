@@ -10,6 +10,6 @@
   </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyounghwa&layout=compact&theme=dark) 
-![jinyounghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyounghwa&show_icons=true&theme=transparent)
+![jinyounghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyounghwa&Donut_Chart_layout=true&theme=transparent)
 </a>
 </p>
